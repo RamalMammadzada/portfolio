@@ -292,6 +292,16 @@ h3 {
     width: 100%;
     height: 5%;
   }
+
+  .junior{
+    display: flex;
+    flex-direction: column;
+  }
+
+  .university_time{
+    display: flex;
+    flex-direction: column;
+  }
   
   img{
     display: none;
